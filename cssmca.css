@@ -1,0 +1,21 @@
+body{
+background-image:url("giet00332.jpeg");
+background-size:cover;
+}
+#head
+{
+color:red;
+}
+.content
+{
+color:red;
+}
+#div1
+{
+border:5px solid white;
+background-color:yellow;
+width:500px;
+height:300px;
+margin-left:550px;
+margin-top:200px;
+}
